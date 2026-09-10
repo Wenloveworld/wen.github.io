@@ -1,3 +1,8 @@
 theme: minima
 title: Wen's Blog
 author: 高文
+url: "https://wen.github.io"
+
+# 禁用默认主题，采用自定义源码
+markdown: kramdown
+permalink: /:year/:month/:day/:title/

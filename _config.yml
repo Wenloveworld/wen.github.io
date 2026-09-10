@@ -1,9 +1,10 @@
+title: "Wen's Blog"
+author: "高文"
+description: "去生活，去思考"
+
+# 皮肤主题
 theme: minima
-title: Wen's Blog
-author: 高文
 
-
-# 禁用默认主题，采用自定义源码
-markdown: kramdown
-permalink: /:year/:month/:day/:title/
-future: true
+# 插件支持
+plugins:
+  - jekyll-feed
